@@ -1,11 +1,59 @@
-# BMW Car Sales Dashboard
+# BMW Car Sales Analytics Dashboard
 
-## Introduction:
-   Car buyers exploring pricing patterns.
-   Dealerships monitoring market trends.
-   Data analysts looking to apply EDA and visualization skills.
-   Anyone interested in learning how data can influence buying and selling decisions in the automotive industry.
+## Project Overview
 
-## Libraries
-   pandas
-   altair
+This project is an interactive data visualization dashboard built using Python and Streamlit, designed to analyze BMW car sales data.
+It provides an intuitive interface for exploring trends, performance indicators, and price analytics — ideal for data enthusiasts and business analysts interested in automotive sales insights.
+
+## Features
+
+✦ Dynamic KPIs: Displays average price, total sales volume, and mileage.
+
+✦ Interactive Charts:
+
+Sales volume trends over time
+
+Regional sales performance
+
+Average price by fuel type
+
+Price vs. Mileage scatter visualization
+
+✦ Sidebar Navigation: Easily switch between overview and detailed analysis pages.
+
+✦ Custom Filters: Filter data by sales classification, year range, and more.
+
+## Tech Stack
+
+Python
+
+Streamlit
+
+Pandas
+
+Altair
+
+Pillow (PIL)
+
+## How to Run
+# 1️ Install dependencies
+pip install streamlit pandas altair pillow
+
+# 2️ Run the Streamlit app
+streamlit run app.py
+
+
+(Replace app.py with your file name if different.)
+
+## Dashboard Preview
+
+Page 1: Overview & KPIs
+Displays summary metrics, line charts, and data samples.
+
+Page 2: Detailed Analysis
+Offers comparative bar charts and scatter plots with user filters.
+
+## Created by
+
+S. Sathiya Priya
+Data Analytics Enthusiast | Machine Learning & Visualization Projects
