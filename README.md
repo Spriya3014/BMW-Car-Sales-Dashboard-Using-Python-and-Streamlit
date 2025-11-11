@@ -36,10 +36,10 @@ Altair
 Pillow (PIL)
 
 ## How to Run
-# 1️ Install dependencies
+### Install dependencies
 pip install streamlit pandas altair pillow
 
-# 2️ Run the Streamlit app
+### Run the Streamlit app
 streamlit run app.py
 
 
