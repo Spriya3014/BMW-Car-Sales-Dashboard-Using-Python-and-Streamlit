@@ -11,13 +11,13 @@ It provides an intuitive interface for exploring trends, performance indicators,
 
 ✦ Interactive Charts:
 
-Sales volume trends over time
+  Sales volume trends over time
 
-Regional sales performance
+  Regional sales performance
 
-Average price by fuel type
+  Average price by fuel type
 
-Price vs. Mileage scatter visualization
+  Price vs. Mileage scatter visualization
 
 ✦ Sidebar Navigation: Easily switch between overview and detailed analysis pages.
 
