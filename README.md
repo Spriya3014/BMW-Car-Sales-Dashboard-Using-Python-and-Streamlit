@@ -40,10 +40,7 @@ Pillow (PIL)
 pip install streamlit pandas altair pillow
 
 ### Run the Streamlit app
-streamlit run app.py
-
-
-(Replace app.py with your file name if different.)
+streamlit run Sathiyapriya.py
 
 ## Dashboard Preview
 
