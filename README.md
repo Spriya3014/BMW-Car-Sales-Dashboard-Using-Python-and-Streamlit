@@ -11,7 +11,7 @@ It provides an intuitive interface for exploring trends, performance indicators,
 
 ✦ Interactive Charts:
 
- hollow bullet Sales volume trends over time
+ Hollow bullet Sales volume trends over time
 
   Regional sales performance
 
